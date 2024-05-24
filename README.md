@@ -25,6 +25,7 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para cadastro de funci
 ![image](https://github.com/IvoJP1/CRUDesafio/assets/88736020/76988783-ff67-4cd8-b54a-f1054ada5db7)
 
 ## Banco de Dados
-![image](https://github.com/IvoJP1/CRUDesafio/assets/88736020/9b1b8a0e-776b-4f89-bb00-3480dd70b36a)
+![image](https://github.com/IvoJP1/CRUDesafio/assets/88736020/80e2f354-35fe-4e77-9aa6-6bed97a06df6)
+
 
 
