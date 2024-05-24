@@ -21,6 +21,6 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para cadastro de funci
 - **Java JDK 11+:** Para rodar o back-end.
 - **PostgreSQL:** Banco de dados para armazenar os dados dos funcionários.
 
-##Caso de Uso
+## Caso de Uso
 ![image](https://github.com/IvoJP1/CRUDesafio/assets/88736020/76988783-ff67-4cd8-b54a-f1054ada5db7)
 
