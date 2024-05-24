@@ -28,4 +28,4 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para cadastro de funci
 1. Clone o repositório:
    ```sh
    git clone https://github.com/IvoJP1/CRUDesafio
-   cd seu-repositorio/backend
+   cd CRUDesafio/CRUD
